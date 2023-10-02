@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrow white" filter="url(#filter0_b_297_1505)">
+<circle id="Ellipse 5" cx="24.0002" cy="23.9999" r="22.0673" transform="rotate(-107.954 24.0002 23.9999)" fill="black"/>
+<g id="Outline / Arrows / Arrow Down ">
+<path id="Vector (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M16.621 29.1262C16.331 28.7965 16.384 28.311 16.7394 28.0419L28.913 18.8238L21.5593 18.1328C21.1029 18.09 20.7704 17.7119 20.8166 17.2885C20.8628 16.8651 21.2702 16.5566 21.7266 16.5994L31.0753 17.4778C31.2945 17.4984 31.4958 17.5989 31.6351 17.7573C31.7744 17.9156 31.8401 18.1188 31.8179 18.3221L30.8713 26.9963C30.8251 27.4198 30.4176 27.7283 29.9613 27.6854C29.5049 27.6425 29.1724 27.2645 29.2186 26.8411L29.9633 20.0178L17.7896 29.236C17.4342 29.5051 16.911 29.4559 16.621 29.1262Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_297_1505" x="-53.2677" y="-53.2677" width="154.535" height="154.535" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="26.6338"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_297_1505"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_297_1505" result="shape"/>
+</filter>
+</defs>
+</svg>

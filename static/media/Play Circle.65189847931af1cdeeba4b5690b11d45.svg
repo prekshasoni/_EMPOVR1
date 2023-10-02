@@ -1,0 +1,13 @@
+<svg width="105" height="105" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Bold / Video, Audio, Sound / Play Circle" filter="url(#filter0_b_297_1333)">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M52.6114 96.19C76.6838 96.19 96.1983 76.6755 96.1983 52.6031C96.1983 28.5307 76.6838 9.01611 52.6114 9.01611C28.539 9.01611 9.02441 28.5307 9.02441 52.6031C9.02441 76.6755 28.539 96.19 52.6114 96.19ZM46.9167 69.3658L67.4906 57.2188C70.898 55.207 70.898 49.9991 67.4906 47.9874L46.9167 35.8404C43.605 33.8851 39.5353 36.43 39.5353 40.4561V64.7501C39.5353 68.7761 43.605 71.321 46.9167 69.3658Z" fill="#7091FF" fill-opacity="0.27"/>
+</g>
+<defs>
+<filter id="filter0_b_297_1333" x="-23.6657" y="-23.674" width="152.555" height="152.554" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="11.9864"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_297_1333"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_297_1333" result="shape"/>
+</filter>
+</defs>
+</svg>

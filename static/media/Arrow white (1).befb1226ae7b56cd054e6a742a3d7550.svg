@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrow white" filter="url(#filter0_b_297_1487)">
+<circle id="Ellipse 5" cx="23.9998" cy="24.0001" r="22.0673" transform="rotate(72.0464 23.9998 24.0001)" fill="white"/>
+<g id="Linear / Messages, Conversation / Plain" clip-path="url(#clip0_297_1487)">
+<path id="Vector" d="M25.3692 32.225L30.9889 30.246C35.8982 28.5173 38.3528 27.6529 38.5401 25.9365C38.7274 24.22 36.5094 22.9167 32.0733 20.3099L26.9953 17.3258C23.4149 15.2219 21.6248 14.1699 20.5023 14.3357C19.4344 14.4935 18.54 15.1708 18.1593 16.1099C17.7592 17.097 18.5111 18.9352 20.0149 22.6115C20.2563 23.2018 20.3771 23.497 20.4077 23.7969C20.4374 24.0875 20.4054 24.3807 20.3135 24.66C20.2187 24.9481 20.0366 25.2148 19.6726 25.7482C17.405 29.0702 16.2713 30.7312 16.45 31.7727C16.62 32.7635 17.35 33.5935 18.362 33.9466C19.4259 34.3179 21.407 33.6202 25.3692 32.225Z" stroke="#1C274C" stroke-width="1.36584"/>
+<path id="Vector_2" d="M29.5382 25.7506C29.927 25.7891 30.2759 25.5279 30.3174 25.1672C30.359 24.8065 30.0775 24.4829 29.6886 24.4443L29.5382 25.7506ZM20.9448 24.8985L29.5382 25.7506L29.6886 24.4443L21.0952 23.5922L20.9448 24.8985Z" fill="#1C274C"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_297_1487" x="-53.2677" y="-53.2677" width="154.535" height="154.535" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="26.6338"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_297_1487"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_297_1487" result="shape"/>
+</filter>
+<clipPath id="clip0_297_1487">
+<rect width="25.4437" height="25.8278" fill="white" transform="matrix(0.66044 0.750878 -0.797229 0.603677 25.7656 7.20996)"/>
+</clipPath>
+</defs>
+</svg>
